@@ -1,0 +1,101 @@
+,title,artist,title_lower,artist_lower,artist_lower_clean,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id
+0,Mood,24kGoldn Featuring iann dior,mood,24kgoldn featuring iann dior,24kgoldn iann dior,0.7,0.722,7.0,-3.558,0.0,0.0369,0.221,0.0,0.272,0.756,90.989,3tjFYV6RSFtuktYl3ZtYcq
+1,Therefore I Am,Billie Eilish,therefore i am,billie eilish,billie eilish,0.889,0.34,11.0,-7.773,0.0,0.0697,0.218,0.13,0.055,0.716,94.009,54bFM56PmE4YLRnqpW6Tha
+2,Positions,Ariana Grande,positions,ariana grande,ariana grande,0.737,0.802,0.0,-4.771,1.0,0.0878,0.468,0.0,0.0931,0.682,144.015,35mvY5S1H3J2QZyna3TFe0
+3,I Hope,Gabby Barrett Featuring Charlie Puth,i hope,gabby barrett featuring charlie puth,gabby barrett charlie puth,0.554,0.576,6.0,-6.495,1.0,0.0399,0.171,0.0,0.159,0.409,74.942,5cYFwgA5dHoqR3xGnlr9ew
+4,Laugh Now Cry Later,Drake Featuring Lil Durk,laugh now cry later,drake featuring lil durk,drake lil durk,0.761,0.518,0.0,-8.871,1.0,0.134,0.244,3.47e-05,0.107,0.522,133.976,2SAqBLGA283SUiwJ3xOUVI
+5,Holy,Justin Bieber Featuring Chance The Rapper,holy,justin bieber featuring chance the rapper,justin bieber chance the rapper,0.673,0.704,6.0,-8.056,1.0,0.36,0.196,0.0,0.0898,0.372,86.919,5u1n1kITHCxxp8twBcZxWy
+6,Blinding Lights,The Weeknd,blinding lights,the weeknd,the weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,0VjIjW4GlUZAMYd2vXMi3b
+7,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,lemonade,internet money & gunna featuring don toliver & nav,internet money gunna don toliver nav,0.799,0.66,1.0,-6.153,0.0,0.079,0.256,0.0,0.111,0.471,140.04,02kDW379Yfd5PzW5A6vuGt
+8,Dakiti,Bad Bunny & Jhay Cortez,dakiti,bad bunny & jhay cortez,bad bunny jhay cortez,0.731,0.573,4.0,-10.059,0.0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,47EiUVwUp4C9fGccaPuUCS
+9,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,for the night,pop smoke featuring lil baby & dababy,pop smoke lil baby dababy,0.823,0.586,6.0,-6.606,0.0,0.2,0.114,0.0,0.193,0.347,125.971,0PvFJmanyNQMseIFrU708S
+10,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,savage love (laxed - siren beat),jawsh 685 x jason derulo,jawsh 685 jason derulo,0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,1xQ6trAsedVPCdbtDAmk0c
+11,Go Crazy,Chris Brown & Young Thug,go crazy,chris brown & young thug,chris brown young thug,0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,1IIKrJVP1C9N7iPtG6eOsK
+12,Kings & Queens,Ava Max,kings & queens,ava max,ava max,0.661,0.779,1.0,-3.995,0.0,0.0678,0.00604,0.0,0.218,0.67,129.911,5rB5mfeFCkUI3nkHQMMZ3K
+13,Dynamite,BTS,dynamite,bts,bts,0.746,0.765,6.0,-4.41,0.0,0.0993,0.0112,0.0,0.0936,0.737,114.044,0t1kP63rueHleOhQkYSXFY
+14,More Than My Hometown,Morgan Wallen,more than my hometown,morgan wallen,morgan wallen,0.621,0.882,6.0,-5.01,1.0,0.0459,0.601,0.0,0.132,0.574,126.014,0eBXyY4SatzpE7opnzgXvz
+15,WAP,Cardi B Featuring Megan Thee Stallion,wap,cardi b featuring megan thee stallion,cardi b megan thee stallion,0.935,0.454,1.0,-7.509,1.0,0.375,0.0194,0.0,0.0824,0.357,133.073,4Oun2ylbjFKMPTiaSbbCih
+16,Rockstar,DaBaby Featuring Roddy Ricch,rockstar,dababy featuring roddy ricch,dababy roddy ricch,0.746,0.69,11.0,-7.956,1.0,0.164,0.247,0.0,0.101,0.497,89.977,7ytR5pFWmSjzHJIeQkgog4
+17,Before You Go,Lewis Capaldi,before you go,lewis capaldi,lewis capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,7ce20yLkzuXXLUhzIDoZih
+18,Be Like That,Kane Brown With Swae Lee & Khalid,be like that,kane brown with swae lee & khalid,kane brown  swae lee khalid,0.727,0.626,7.0,-8.415,1.0,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,5f1joOtoMeyppIcJGZQvqJ
+19,Levitating,Dua Lipa Featuring DaBaby,levitating,dua lipa featuring dababy,dua lipa dababy,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,463CkQjx2Zk1yXoBuierM9
+20,Watermelon Sugar,Harry Styles,watermelon sugar,harry styles,harry styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,6UelLqGlWMcVH1E5c4H7lY
+21,Hawai,Maluma & The Weeknd,hawai,maluma & the weeknd,maluma the weeknd,0.766,0.788,6.0,-3.128,0.0,0.312,0.105,5.81e-06,0.142,0.609,179.984,0GzuHFG4Ql6DoyxFRnIk3F
+22,ily,surf mesa Featuring Emilee,ily,surf mesa featuring emilee,surf mesa emilee,0.674,0.774,11.0,-7.567,0.0,0.0892,0.0686,0.00188,0.393,0.33,112.05,62aP9fBQKYKxi7PDXwcUAS
+23,Bang!,AJR,bang!,ajr,ajr,0.74,0.516,1.0,-6.233,0.0,0.0507,0.0183,0.0,0.0558,0.698,139.918,53BHUFdQphHiZUUG3nx9zn
+24,Starting Over,Chris Stapleton,starting over,chris stapleton,chris stapleton,0.638,0.538,10.0,-8.445,1.0,0.0315,0.452,0.000415,0.0695,0.318,89.124,3TNSVsiFngfe68UJpMq1oS
+25,Lonely,Justin Bieber & benny blanco,lonely,justin bieber & benny blanco,justin bieber benny blanco,0.631,0.239,11.0,-7.071,0.0,0.0398,0.864,0.0,0.116,0.0927,79.859,4y4spB9m0Q6026KfkAvy9Q
+26,34+35,Ariana Grande,34+35,ariana grande,ariana grande,0.83,0.585,0.0,-6.476,1.0,0.094,0.237,0.0,0.248,0.485,109.978,6Im9k8u9iIzKMrmV7BWtlF
+27,Said Sum,Moneybagg Yo,said sum,moneybagg yo,moneybagg yo,0.929,0.667,8.0,-6.789,0.0,0.353,0.0185,0.0,0.1,0.274,126.998,3sKz6Sd72K0ofPWcJPPk6H
+28,All I Want For Christmas Is You,Mariah Carey,all i want for christmas is you,mariah carey,mariah carey,0.336,0.627,7.0,-7.463,1.0,0.0384,0.164,0.0,0.0708,0.35,150.273,0bYg9bo50gSsH3LtXe2SQn
+29,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",whats poppin,"jack harlow featuring dababy, tory lanez & lil wayne","jack harlow dababy, tory lanez lil wayne",0.904,0.723,11.0,-5.224,0.0,0.26,0.0631,0.0,0.185,0.835,145.013,2MbdDtCv5LUVjYy9RuGTgC
+30,Drankin N Smokin,Future & Lil Uzi Vert,drankin n smokin,future & lil uzi vert,future lil uzi vert,0.752,0.658,0.0,-6.297,1.0,0.342,0.0421,0.0,0.0927,0.387,151.951,0k7wmahjkn389wAZdz19Cv
+31,What You Know Bout Love,Pop Smoke,what you know bout love,pop smoke,pop smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,1tkg4EHVoqnhR6iFEXb60y
+32,One Of Them Girls,Lee Brice,one of them girls,lee brice,lee brice,0.643,0.79,4.0,-6.079,1.0,0.0462,0.294,0.0,0.107,0.8,95.987,14GwnOeC9qYEKEA6uOZepa
+33,One Beer,HARDY Featuring Lauren Alaina & Devin Dawson,one beer,hardy featuring lauren alaina & devin dawson,hardy lauren alaina devin dawson,0.516,0.745,2.0,-8.352,1.0,0.0774,0.564,0.0,0.275,0.826,186.006,5Y05LYM8LhnQN78GqfjSeK
+34,Love You Like I Used To,Russell Dickerson,love you like i used to,russell dickerson,russell dickerson,0.501,0.788,10.0,-4.624,1.0,0.0415,0.12,0.0,0.137,0.61,152.047,1D7cfiC5mxqHfTCcOiRBej
+35,Pretty Heart,Parker McCollum,pretty heart,parker mccollum,parker mccollum,0.562,0.683,7.0,-4.427,1.0,0.0296,0.00531,0.0,0.107,0.385,132.003,6vC90OOjZR165Hw8CpsqEm
+36,Holiday,Lil Nas X,holiday,lil nas x,lil nas x,0.81,0.511,5.0,-6.924,0.0,0.164,0.12,0.0,0.0832,0.837,151.947,6zFMeegAMYQo0mt8rXtrli
+37,Happy Anywhere,Blake Shelton Featuring Gwen Stefani,happy anywhere,blake shelton featuring gwen stefani,blake shelton gwen stefani,0.538,0.745,8.0,-5.774,1.0,0.0387,0.1,0.0,0.063,0.669,165.755,2DwbFtfC6sXBiVDPmju8Dd
+38,Better Together,Luke Combs,better together,luke combs,luke combs,0.552,0.225,0.0,-11.501,1.0,0.0477,0.827,0.0,0.111,0.67,138.002,6gdLyYNuhWBzqwlOFSsXC7
+39,Forever After All,Luke Combs,forever after all,luke combs,luke combs,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,6IBcOGPsniK3Pso1wHIhew
+40,Got What I Got,Jason Aldean,got what i got,jason aldean,jason aldean,0.512,0.58,3.0,-6.658,0.0,0.029,0.621,1.72e-05,0.513,0.303,159.847,4TCc369aRPRubv1m8R1TBG
+41,"Big, Big Plans",Chris Lane,"big, big plans",chris lane,chris lane,0.574,0.58,7.0,-6.091,1.0,0.0278,0.076,0.0,0.12,0.4,149.974,7yNJCsUH3tXlpQiHSsAc5l
+42,Rockin' Around The Christmas Tree,Brenda Lee,rockin' around the christmas tree,brenda lee,brenda lee,0.589,0.472,8.0,-8.749,1.0,0.0502,0.614,0.0,0.505,0.898,67.196,2EjXfH91m7f8HiJN1yQg97
+43,Wonder,Shawn Mendes,wonder,shawn mendes,shawn mendes,0.333,0.637,1.0,-4.904,0.0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,5KCbr5ndeby4y4ggthdiAb
+44,pov,Ariana Grande,pov,ariana grande,ariana grande,0.487,0.534,0.0,-5.664,0.0,0.0555,0.36,0.0,0.1,0.173,131.798,3UoULw70kMsiVXxW0L3A33
+45,Stripes Like Burberry,Future & Lil Uzi Vert,stripes like burberry,future & lil uzi vert,future lil uzi vert,0.758,0.574,9.0,-7.833,0.0,0.217,0.216,0.0,0.144,0.706,144.081,6lt8iodSkYWEV0ifKCSlfg
+46,Come & Go,Juice WRLD x Marshmello,come & go,juice wrld x marshmello,juice wrld marshmello,0.625,0.814,0.0,-5.181,1.0,0.0657,0.0172,0.0,0.158,0.535,144.991,2Y0wPrPQBrGhoLn14xRYCG
+47,Diamonds,Sam Smith,diamonds,sam smith,sam smith,0.653,0.667,10.0,-6.764,0.0,0.0423,0.154,0.0,0.107,0.556,104.181,5hvwx5i67IwnCkjl9VHkNv
+48,Adore You,Harry Styles,adore you,harry styles,harry styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,3jjujdWJ72nww5eGnfs2E7
+49,That's It,Future & Lil Uzi Vert,that's it,future & lil uzi vert,future lil uzi vert,0.94,0.532,11.0,-5.998,0.0,0.358,0.12,0.0,0.0925,0.599,123.043,5n6gBhdEjCuj3obgCoTEFD
+50,You Broke Me First.,Tate McRae,you broke me first.,tate mcrae,tate mcrae,0.642,0.374,4.0,-9.386,1.0,0.0545,0.786,0.0,0.0906,0.0799,124.099,45bE4HXI0AwGZXfZtMp8JR
+51,I Should Probably Go To Bed,Dan + Shay,i should probably go to bed,dan + shay,dan + shay,0.721,0.277,1.0,-7.128,1.0,0.0365,0.634,0.0,0.112,0.309,131.935,5ovVcYo2MvjVydFwFyaaqy
+52,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,the woo,pop smoke featuring 50 cent & roddy ricch,pop smoke 50 cent roddy ricch,0.49,0.618,1.0,-5.655,1.0,0.104,0.0221,3.77e-06,0.259,0.286,99.7,1H7KnK26kc1YyellpbINEn
+53,Real Baby Pluto,Future & Lil Uzi Vert,real baby pluto,future & lil uzi vert,future lil uzi vert,0.898,0.567,1.0,-6.446,1.0,0.302,0.0165,0.0,0.109,0.602,141.973,1rP5gAqMlm8d6UnfseuzSm
+54,Ain't Always The Cowboy,Jon Pardi,ain't always the cowboy,jon pardi,jon pardi,,,,,,,,,,,,
+55,Mr. Right Now,21 Savage & Metro Boomin Featuring Drake,mr. right now,21 savage & metro boomin featuring drake,21 savage metro boomin drake,0.647,0.667,5.0,-5.563,1.0,0.304,0.231,0.0,0.133,0.704,172.08,4Q34FP1AT7GEl9oLgNtiWj
+56,Iris,Phoebe & Maggie,iris,phoebe & maggie,phoebe maggie,,,,,,,,,,,,
+57,Franchise,Travis Scott Featuring Young Thug & M.I.A.,franchise,travis scott featuring young thug & m.i.a.,travis scott young thug m.i.a.,0.835,0.699,8.0,-5.405,0.0,0.277,0.00671,0.0,0.195,0.547,154.981,4jVBIpuOiMj1crqd8LoCrJ
+58,My Ex's Best Friend,Machine Gun Kelly X blackbear,my ex's best friend,machine gun kelly x blackbear,machine gun kelly blackbear,0.731,0.675,5.0,-5.134,0.0,0.0434,0.00473,0.0,0.141,0.298,124.939,7kDUspsoYfLkWnZR7qwHZl
+59,Took Her To The O,King Von,took her to the o,king von,king von,0.82,0.592,1.0,-7.002,1.0,0.29,0.0149,4.71e-06,0.121,0.4,159.98,7fEoXCZTZFosUFvFQg1BmW
+60,Mood Swings,Pop Smoke Featuring Lil Tjay,mood swings,pop smoke featuring lil tjay,pop smoke lil tjay,0.48,0.602,10.0,-6.335,0.0,0.368,0.487,0.0,0.0848,0.269,179.798,5rZlwNFl01HqLWBQGryKSm
+61,B.S.,Jhene Aiko Featuring H.E.R.,b.s.,jhene aiko featuring h.e.r.,jhene aiko h.e.r.,0.617,0.525,8.0,-10.426,0.0,0.12,0.554,1.1e-06,0.135,0.377,135.781,63wx9vdskaXbYxyDx4oJCZ
+62,7 Summers,Morgan Wallen,7 summers,morgan wallen,morgan wallen,0.457,0.774,0.0,-5.201,1.0,0.0336,0.428,4.29e-05,0.119,0.59,203.863,0tbjiOUl4k492KPdWZS9sy
+63,Marni On Me,Future & Lil Uzi Vert,marni on me,future & lil uzi vert,future lil uzi vert,0.759,0.52,2.0,-7.042,1.0,0.447,0.0187,0.0,0.313,0.116,123.189,6NaVCCFGylOLZAgk5eTTid
+64,Midnight Sky,Miley Cyrus,midnight sky,miley cyrus,miley cyrus,0.705,0.814,4.0,-5.466,0.0,0.0346,0.00115,0.00312,0.203,0.259,110.0,27ycaQnQAxaPiyeg3nr2aB
+65,Tyler Herro,Jack Harlow,tyler herro,jack harlow,jack harlow,0.794,0.756,5.0,-7.16,0.0,0.136,0.11,0.0,0.247,0.775,123.066,4DuUwzP4ALMqpquHU0ltAB
+66,Million Dollar Play,Future & Lil Uzi Vert,million dollar play,future & lil uzi vert,future lil uzi vert,0.839,0.502,0.0,-5.886,0.0,0.398,0.11,0.0,0.115,0.585,150.07,7liO3TEHfUqLnIlN54CW1D
+67,Sleeping On The Floor,Future & Lil Uzi Vert,sleeping on the floor,future & lil uzi vert,future lil uzi vert,0.851,0.621,11.0,-6.679,1.0,0.362,0.0233,0.0,0.161,0.532,150.969,0DUHmrwC8ZviGGC2o2JBy1
+68,Throat Baby (Go Baby),BRS Kash,throat baby (go baby),brs kash,brs kash,0.9,0.521,4.0,-7.286,0.0,0.147,0.0135,0.0,0.0951,0.213,132.007,31iqpzg1ZXLLgq0L5iIwLe
+69,Don't Stop,Megan Thee Stallion Featuring Young Thug,don't stop,megan thee stallion featuring young thug,megan thee stallion young thug,0.933,0.757,2.0,-3.212,1.0,0.117,0.00184,0.0,0.135,0.544,137.993,3yv7994DWTEk3ihwy75YBQ
+70,Good Time,Niko Moon,good time,niko moon,niko moon,0.79,0.646,5.0,-5.878,1.0,0.0447,0.132,0.0,0.295,0.641,138.047,5Kpg1A7BOHpBbaT3H3xqd3
+71,Hole In The Bottle,Kelsea Ballerini,hole in the bottle,kelsea ballerini,kelsea ballerini,0.672,0.552,4.0,-6.375,1.0,0.0316,0.504,0.0,0.0636,0.594,105.02,1f6BZccfonUYohfGJIeBR1
+72,U 2 Luv,Ne-Yo & Jeremih,u 2 luv,ne-yo & jeremih,ne-yo jeremih,0.626,0.592,6.0,-7.085,1.0,0.147,0.138,0.000312,0.0957,0.65,177.715,3862MQcbNmghGJDfk8cOJi
+73,Blind,DaBaby Featuring Young Thug,blind,dababy featuring young thug,dababy young thug,0.709,0.679,11.0,-6.503,0.0,0.346,0.0115,0.0,0.0971,0.754,162.973,2T5NBwKRySiCR78vVk08vr
+74,So Done,The Kid LAROI,so done,the kid laroi,the kid laroi,0.719,0.598,9.0,-6.254,1.0,0.077,0.232,0.0,0.115,0.303,142.592,5psEZhQu6lukjhavJo4AbC
+75,Hit Different,SZA Featuring Ty Dolla $ign,hit different,sza featuring ty dolla $ign,sza ty dolla $ign,0.679,0.516,0.0,-6.371,0.0,0.0452,0.199,0.0,0.0965,0.716,120.074,7Bar1kLTmsRmH6FCKKMEyU
+76,Golden,Harry Styles,golden,harry styles,harry styles,0.448,0.838,4.0,-5.257,0.0,0.0557,0.21,0.000131,0.131,0.254,139.863,45S5WTQEGOB1VHr1Q4FuPl
+77,Champagne Night,Lady A,champagne night,lady a,lady a,0.523,0.927,4.0,-2.796,1.0,0.0489,0.0272,5.98e-06,0.168,0.939,149.929,48F2xnWq3LuzYWML327Z2r
+78,Some Girls,Jameson Rodgers,some girls,jameson rodgers,jameson rodgers,0.431,0.831,8.0,-5.108,1.0,0.0474,0.0791,0.0,0.312,0.352,167.96,54eUv9Q3D9MZuOGS5PSflp
+79,Martin & Gina,Polo G,martin & gina,polo g,polo g,0.832,0.534,1.0,-7.813,0.0,0.253,0.345,0.0,0.165,0.116,93.924,1VLtjHwRWOVJiE5Py7JxoQ
+80,Whoopty,CJ,whoopty,cj,cj,0.711,0.598,3.0,-7.621,0.0,0.182,0.19,0.0,0.15,0.737,140.175,5vGLcdRuSbUhD8ScwsGSdA
+81,Everywhere But On,Matt Stell,everywhere but on,matt stell,matt stell,0.563,0.722,6.0,-3.972,1.0,0.0279,0.0345,0.0,0.0795,0.309,149.903,0ifYeH4gNXEyba41xr3I1w
+82,Popstar,DJ Khaled Featuring Drake,popstar,dj khaled featuring drake,dj khaled drake,0.8,0.56,5.0,-4.818,0.0,0.261,0.057,0.0,0.134,0.45,163.071,6EDO9iiTtwNv6waLwa1UUq
+83,Wishing Well,Juice WRLD,wishing well,juice wrld,juice wrld,0.65,0.613,9.0,-6.13,0.0,0.128,0.00336,0.0,0.267,0.0804,149.972,2U5WueTLIK5WJLD7mvDODv
+84,What's Your Country Song,Thomas Rhett,what's your country song,thomas rhett,thomas rhett,0.355,0.706,5.0,-6.164,1.0,0.0309,0.000532,0.0,0.264,0.523,174.005,7Cw3yXDA8Uui37SI5FFaA7
+85,Plastic,Future & Lil Uzi Vert,plastic,future & lil uzi vert,future lil uzi vert,0.773,0.505,5.0,-5.716,0.0,0.061,0.0485,0.0,0.158,0.142,160.031,6GK5du9ndZ7ZwMBrTRTGMH
+86,Put Your Records On,Ritt Momney,put your records on,ritt momney,ritt momney,0.399,0.491,6.0,-10.778,0.0,0.0538,0.0563,0.00089,0.11,0.151,91.066,6AGOKlMZWLCaEJGnaROtF9
+87,Heather,Conan Gray,heather,conan gray,conan gray,0.357,0.425,5.0,-7.301,1.0,0.0333,0.584,0.0,0.322,0.27,102.078,4xqrdfXkTW4T0RauPLv3WA
+88,24,Money Man Featuring Lil Baby,24,money man featuring lil baby,money man lil baby,0.868,0.638,2.0,-7.746,1.0,0.0736,0.146,0.0565,0.0931,0.459,126.03,7v96VvFLS0wSYT8kewNLRy
+89,Happy Does,Kenny Chesney,happy does,kenny chesney,kenny chesney,0.715,0.665,6.0,-5.486,1.0,0.0381,0.301,0.0,0.123,0.593,109.019,2v08cjj3Th8RpfJgluECcj
+90,Runnin,21 Savage & Metro Boomin,runnin,21 savage & metro boomin,21 savage metro boomin,0.819,0.626,10.0,-4.574,0.0,0.202,0.00748,0.101,0.167,0.415,143.01,5SWnsxjhdcEDc7LJjq9UHk
+91,Relacion,"Sech, Daddy Yankee & J Balvin Featuring ROSALIA & Farruko",relacion,"sech, daddy yankee & j balvin featuring rosalia & farruko","sech, daddy yankee j balvin rosalia farruko",0.793,0.771,5.0,-3.417,1.0,0.0959,0.0337,1.51e-06,0.284,0.835,171.943,35UUpTmrcFXNIVIN26ujXl
+92,Beers And Sunshine,Darius Rucker,beers and sunshine,darius rucker,darius rucker,0.57,0.645,5.0,-5.816,1.0,0.0304,0.134,0.0,0.147,0.677,81.084,36ISlLb12gKuCCVTYXC0gb
+93,Take You Dancing,Jason Derulo,take you dancing,jason derulo,jason derulo,0.789,0.711,2.0,-4.248,1.0,0.041,0.0332,0.0,0.0876,0.753,112.985,59qrUpoplZxbIZxk6X0Bm3
+94,La Toxica,Farruko,la toxica,farruko,farruko,0.659,0.701,9.0,-4.107,1.0,0.164,0.0882,0.0,0.0866,0.623,91.97,15OjBeqNX3bShsGYQbteRv
+95,Tap In,Saweetie,tap in,saweetie,saweetie,0.954,0.696,10.0,-7.117,0.0,0.204,0.00576,0.000498,0.0754,0.432,100.036,4Hpib09wXgD84w4uwTPnYD
+96,Rockstar Chainz,Future,rockstar chainz,future,future,0.867,0.517,2.0,-6.914,1.0,0.307,0.0116,0.0,0.31,0.271,143.043,0NXeZp31dd0cJ9t8FdKsTg
+97,Kacey Talk,YoungBoy Never Broke Again,kacey talk,youngboy never broke again,youngboy never broke again,0.877,0.607,10.0,-7.818,0.0,0.15,0.535,0.0,0.138,0.773,127.055,1SF8piqsZWn86DajVKih8F
+98,Practice,DaBaby,practice,dababy,dababy,0.849,0.536,1.0,-7.307,1.0,0.349,0.0239,0.0,0.126,0.308,141.964,4Z5FyQlevoHoa5FsIVKZju
+99,Bought A Bad Bitch,Future & Lil Uzi Vert,bought a bad bitch,future & lil uzi vert,future lil uzi vert,0.866,0.72,7.0,-6.641,0.0,0.0646,0.112,0.0,0.172,0.785,136.077,5syD6f38Jhckk5g9DgoCta
