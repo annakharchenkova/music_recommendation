@@ -7,6 +7,9 @@ https://vimeo.com/484361577
 
 https://www.dropbox.com/sh/yzbh3pwym5xmylv/AAALS-e8JtxJsGLUfFskYvV-a?dl=0
 
+**Main jupyter notebook:**
+music_recommender_notebook/Music Recommender v.1.ipynb
+
 <center> <img src="Presentation_image.png"> 
 </center>
 
