@@ -1,12 +1,14 @@
-# music_recommendation
+# Music Recommendation System
 
-**3 min** project presentation via the link: https://vimeo.com/484361577
+**3 min VIDEO project presentation and demo** via the link:
+https://vimeo.com/484361577
 
 **Full document set** via the link: 
+
 https://www.dropbox.com/sh/yzbh3pwym5xmylv/AAALS-e8JtxJsGLUfFskYvV-a?dl=0
 
 
-# Case Study Description: The site for recommendations - "Gnod"
+## Case Study Description: The site for recommendations - "Gnod"
 
 ### Scenario
 
