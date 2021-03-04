@@ -1,6 +1,6 @@
 # Music Recommendation System
 
-**3 min VIDEO project presentation and demo** via the link:
+**3 min video project presentation and demo** via the link:
 https://vimeo.com/484361577
 
 **Full document set** via the link: 
